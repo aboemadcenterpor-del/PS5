@@ -202,7 +202,7 @@ body {
     cursor: pointer;
     font-family: Arial, sans-serif;
     font-size: 14px;
-    transition: background-color 0.3s, transform 0.2s;
+    transition: background-image: url('icon0.jpg');
     z-index: 9999;
 }
 
