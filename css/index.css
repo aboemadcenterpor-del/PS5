@@ -3,11 +3,7 @@ html, body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    
-}
-
-body {
-      background: linear-gradient(to bottom right, #063FAB, #01258A);
+   	background: linear-gradient(to bottom right, #063FAB, #01258A);
       background-image: url('icon0.jpg');
       background-size: cover;
       background-position: center;
